@@ -5,9 +5,7 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
-<img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
 <!-- <h1 align="center">Hi 👋, I'm Vivek</h1> -->
@@ -33,4 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tankvivek&" alt="tankvivek" /></p>
 
+<img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
