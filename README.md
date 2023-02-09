@@ -10,8 +10,9 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Vivek</h1> -->
+
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <br>
 
