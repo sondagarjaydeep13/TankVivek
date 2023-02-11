@@ -1,28 +1,32 @@
 <br>
 <h1> Hi, I'm Vivek! 👋 </h1>
 
+A Passionate Full Stack Developer.
+----------------------------------
+
+
+
+<img src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966" />
+
 <br>
-<body  style="background-image: url(https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/1804270.jpg);" >
-
-<img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/1804270.jpg">  </div></div>
-<!-- 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
-
-
-
-
 <!-- <h1 align="">Hi 👋, I'm Vivek</h1> -->
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <br>
 
-<p align="left" "> <img style=" font-size: 100px;  font-weight: 700; " width=140px;  height =25px;    src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
+<p align="left" "> 
+ 
+<img style=" font-size: 100px;  font-weight: 700; " width=140px;  height =25px;    src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivektank136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivektank136" height="30" width="40" /></a>   &nbsp;    &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-tank-a309aa236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/vivek-tank-a309aa236/](https://www.linkedin.com/in/vivek-tank-a309aa236/)" height="30" width="40" /></a>
+<a href="https://twitter.com/vivektank136" target="blank">                                                         
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivektank136" height="30" width="40" /></a>   
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-tank-a309aa236/" target="blank">                                        
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/vivek-tank-a309aa236/](https://www.linkedin.com/in/vivek-tank-a309aa236/)" height="30" width="40" /></a>
+
 </p>
 
 <br>                                                                                                                                               
