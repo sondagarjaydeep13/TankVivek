@@ -1,7 +1,10 @@
+<br>
 <h1> Hi, I'm Vivek! 👋 </h1>
 
 <br>
+<body  style="background-image: url(https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/1804270.jpg);" >
 
+<img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/1804270.jpg">  </div></div>
 <!-- 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
@@ -58,4 +61,3 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">  </div></div>
                                                                                                   
                                                                                                
-
