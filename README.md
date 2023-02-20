@@ -2,12 +2,8 @@
 <h1> Hi, I'm Vivek! 👋 </h1>
 
 A Passionate Full Stack Developer.
-----------------------------------
-
-
-
+---------------------------------
 <img src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />
-
 <br>
 <!-- <h1 align="">Hi 👋, I'm Vivek</h1> -->
 
