@@ -13,7 +13,7 @@ A Passionate Full Stack Developer.
 
 <p align="left" "> 
  
-<img    width=170px;  height =45px;    src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
+<img    width=165px;  height =45px;    src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
