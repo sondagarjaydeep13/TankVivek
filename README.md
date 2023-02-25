@@ -1,7 +1,7 @@
 <br>
 <h1> Hi, I'm Vivek! 👋 </h1>
 
-<a class="libutton" style="background-color: #0A66C2 color=red" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" color=red href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a>
 
 A Passionate Full Stack Developer.
 ---------------------------------
