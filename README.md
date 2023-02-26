@@ -6,7 +6,7 @@
 
 A Passionate Full Stack Developer.
 ---------------------------------
-<img src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />
+<h1>    <img src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
 <br>
 <!-- <h1 align="">Hi 👋, I'm Vivek</h1> -->
 
