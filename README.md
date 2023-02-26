@@ -1,10 +1,13 @@
 <br>
 <h1> Hi, I'm Vivek! 👋 </h1>
 
-<h2> <a class="libutton" color="red" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>
+
 
 
 A Passionate Full Stack Developer.
+<h2> <a class="libutton" color="red" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>
+
+
 ---------------------------------
 <h1>    <img src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
 <br>
