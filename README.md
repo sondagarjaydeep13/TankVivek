@@ -7,7 +7,7 @@
 A Passionate Full Stack Developer.
 ---------------------------------
 
-<h2> <button  >  <a class="libutton" color="white" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>    </button>
+<h2> <button  >  <a  color=white href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>    </button>
 
 ---------------------------------
 <h1>    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
