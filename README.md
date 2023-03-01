@@ -63,7 +63,7 @@ A Passionate Full Stack Developer.
 
  <div>                                                                                                 
                                                                                                   
-<img width=500px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
+<img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
         
 </div></div>
                                                                                                   
