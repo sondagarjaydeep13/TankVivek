@@ -11,8 +11,6 @@ A Passionate Full Stack Developer.
 <h1>    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
 <br>
 
-        
- 
 <img    width=140px;  height =30px;   src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
 
 
@@ -29,9 +27,8 @@ A Passionate Full Stack Developer.
 
 <h3 >Languages and Tools:</h3>
                 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
- 
-                                                                                         
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+                                                                                          
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -44,9 +41,8 @@ A Passionate Full Stack Developer.
   &nbsp; &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  
-                                                                                                                                                
-                                                                                                                                                         
-  <br>  <br> <br>                                                                                                                                               
+                                                                                                                                                                                                                                                                       
+<br>  <br> <br>                                                                                                                                               
 <div style=" display: flex; position: rilative;               ">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
 
