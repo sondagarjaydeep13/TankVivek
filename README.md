@@ -10,11 +10,6 @@ A Passionate Full Stack Developer.
 ---------------------------------
 <h1>    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
 <br>
-<!-- <h1 align="">Hi 👋, I'm Vivek</h1> -->
-
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<br>
 
         
  
