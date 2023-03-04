@@ -21,10 +21,7 @@ A Passionate Full Stack Developer.
 <br>                                                                                                                                               
 
 <h3 >Languages and Tools:</h3>
-                
-
- 
-                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                      
 <br> <br>                                                                                                                                               
 <div style=" display: flex; position: rilative;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
