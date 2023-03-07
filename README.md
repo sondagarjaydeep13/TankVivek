@@ -19,17 +19,17 @@ A Passionate Full Stack Developer.
 
 <h3 >Languages and Tools:</h3>
 <p>
-<img   width=30px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
+<img   width=35px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
   &nbsp;  &nbsp;
-<img  width=30px;  height =35px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
+<img  width=35px;  height =35px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
   &nbsp;  &nbsp;
-  <img  width=30px;  height =35px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
+  <img  width=35px;  height =35px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
   &nbsp;  &nbsp;
-  <img  width=30px;  height =35px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
+  <img  width=35px;  height =35px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
   &nbsp;  &nbsp;
-  <img width=30px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
+  <img width=35px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
   &nbsp;  &nbsp;
-  <img width=30px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
+  <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
 </p>
   
                                                                                                                                                                                                                                                                                       
