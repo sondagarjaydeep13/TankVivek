@@ -16,8 +16,6 @@ A Passionate Full Stack Developer.
 
 <h3 align="left">Connect with me:</h3>
 
-
-
 <br>                                                                                                                                               
 
 <h3 >Languages and Tools:</h3>
