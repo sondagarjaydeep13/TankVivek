@@ -15,7 +15,6 @@ A Passionate Full Stack Developer.
 <h3 align="left">Connect with me:</h3>
 
 <br>                                                                                                                                               
-
 <h3 >Languages and Tools:</h3>
 <p>
 <img   width=35px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
