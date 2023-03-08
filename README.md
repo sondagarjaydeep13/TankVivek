@@ -1,7 +1,6 @@
 
 <h1> Hi, I'm Vivek! 👋 </h1>
 
-
 A Passionate Full Stack Developer.
 ---------------------------------
 
