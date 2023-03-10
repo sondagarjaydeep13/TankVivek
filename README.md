@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Vivek! 👋 </h1>
 
 <h1 align="center"> A Passionate Full Stack Developer.  </h1>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">   <a  color=white href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>   
 
