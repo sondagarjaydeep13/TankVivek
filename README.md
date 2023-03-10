@@ -32,7 +32,7 @@ A Passionate Full Stack Developer.
   
                                                                                                                                                                                                                                                                                       
 <br> <br>                                                                                                                                               
-<div style=" display: flex; position: rilative;">
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" /></p>
@@ -41,7 +41,7 @@ A Passionate Full Stack Developer.
 
 <img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
- <div>                                                                                                 
+ <div align="center">                                                                                                 
                                                                                                   
 <img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
         
