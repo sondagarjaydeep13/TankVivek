@@ -44,7 +44,6 @@
 <img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  align="center">
 
  </div>
-
 <!-- <div>                                                                                                
                                                                                                   
 <img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
