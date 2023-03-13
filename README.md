@@ -30,8 +30,7 @@
   &nbsp;  &nbsp;
   <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
 </p>
-  
-                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                       
 <br> <br>                                                                                                                                               
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
@@ -50,6 +49,5 @@
                                                                                                   
 <img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
         
-</div>
-                                                                                                   -->
+</div>                                                                                                 -->
                                                                                                
