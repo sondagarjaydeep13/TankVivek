@@ -1,9 +1,18 @@
-
+Follow on LinkedIn
 <h1 align="center"> Hi, I'm Vivek! 👋 </h1>
 
 <h1 align="center"> A Passionate Full Stack Developer.  </h1>
 
-<h2 align="center">   <a  color=white href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236" target="_blank">Follow on LinkedIn</a> </h2>   
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"> <img align="center" src="https://imgs.search.brave.com/YAD9mqLbqOP1X7QJDEaAS3371TqFS8-x3xkzVAMPD1s/rs:fit:1755:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5r/NWZldjVENUR5enE1/TWZhUWlkcHNnSGFD/QSZwaWQ9QXBp" height="50" width="210" alt="" /></a></p> 
+
+
+
+
+
 
 ---------------------------------------------
 <h1 align="center" >    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1>
