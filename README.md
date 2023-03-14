@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"> <img align="center" src="https://imgs.search.brave.com/s_ZxgePoPDcVP3arCMeKfjZl3K30j4N8sNmYsP3h4LU/rs:fit:1291:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/NnFRVzVtbzg1d2Q4/aTZiRTRBVE1BSGFD/dSZwaWQ9QXBp" height="80" width="250" alt="" /></a></p> 
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"> <img align="center" src="https://imgs.search.brave.com/s_ZxgePoPDcVP3arCMeKfjZl3K30j4N8sNmYsP3h4LU/rs:fit:1291:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/NnFRVzVtbzg1d2Q4/aTZiRTRBVE1BSGFD/dSZwaWQ9QXBp" height="60" width="170" alt="" /></a></p> 
 
 
 ---------------------------------------------
