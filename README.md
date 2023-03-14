@@ -1,4 +1,5 @@
-Follow on LinkedIn
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+
 <h1 align="center"> Hi, I'm Vivek! 👋 </h1>
 
 <h1 align="center"> A Passionate Full Stack Developer.  </h1>
@@ -49,6 +50,8 @@ Follow on LinkedIn
 <img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  align="center">
 
  </div>
+ 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 <!-- <div>                                                                                                
                                                                                                   
 <img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
