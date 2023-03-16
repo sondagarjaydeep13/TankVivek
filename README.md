@@ -5,8 +5,6 @@
 <h1 align="center"> A Passionate Full Stack Developer.  </h1>
 
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=160px;  height =40px; ></a></p> 
 
