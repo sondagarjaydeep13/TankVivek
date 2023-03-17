@@ -4,7 +4,6 @@
 
 <h1 align="center"> A Passionate Full Stack Developer.  </h1>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=160px;  height =40px; ></a></p> 
 
@@ -49,7 +48,8 @@
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 <!-- <div>                                                                                                
-                                                                                                  
+              
+                                                                                    
 <img width=1000px hight=600px src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
         
 </div>                                                                                                 -->
