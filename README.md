@@ -30,8 +30,7 @@
   <img width=35px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
   &nbsp;  &nbsp;
   <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
-</p>
-                                                                                                                                                                                                                                                                                       
+</p>                                                                                                                                                                                                                                                                                     
 <br> <br>                                                                                                                                               
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
